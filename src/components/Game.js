@@ -7,8 +7,12 @@ const Game = () => {
   const [xIsNext, setXIsNext] = useState(true);
   const winner = calculateWinner(board);
 
-  const handleClick = () => {
-
+  const handleClick = (i) => {
+    const boardCopy = [...board];
+    if (winner || boardCopy[i]) return;
+    boardCopy[i] = xIsNext ? 'x' : 'o';
+    setBoard(boardCopy);
+    setXIsNext(!xIsNext);
   }
   const jumpTo = () => {
 
