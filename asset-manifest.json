@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Game__TicTacToe-React/static/js/main.3961393b.chunk.js",
+    "main.js.map": "/Game__TicTacToe-React/static/js/main.3961393b.chunk.js.map",
+    "runtime-main.js": "/Game__TicTacToe-React/static/js/runtime-main.9070ef59.js",
+    "runtime-main.js.map": "/Game__TicTacToe-React/static/js/runtime-main.9070ef59.js.map",
+    "static/js/2.75d7448e.chunk.js": "/Game__TicTacToe-React/static/js/2.75d7448e.chunk.js",
+    "static/js/2.75d7448e.chunk.js.map": "/Game__TicTacToe-React/static/js/2.75d7448e.chunk.js.map",
+    "index.html": "/Game__TicTacToe-React/index.html",
+    "static/js/2.75d7448e.chunk.js.LICENSE.txt": "/Game__TicTacToe-React/static/js/2.75d7448e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9070ef59.js",
+    "static/js/2.75d7448e.chunk.js",
+    "static/js/main.3961393b.chunk.js"
+  ]
+}
