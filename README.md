@@ -1,5 +1,5 @@
-# react-tic-tac-toe-game
+## react-tic-tac-toe-game
 
-Open https://evgeniikolesnikov.github.io/react-tic-tac-toe-game/ to view it.
+Open the [link](https://evgeniikolesnikov.github.io/react-tic-tac-toe-game/) to view this project.
 
-This project is based on [Youtube Tutorial video](https://youtu.be/Z5RbPrK4VqM)
+This project is based on the [Youtube Tutorial video](https://youtu.be/Z5RbPrK4VqM)
